@@ -11,9 +11,7 @@
 		<servlet-name>todo</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
-	
-	
-	<listener>
-		<listener-class>com.I.MyListener</listener-class>
-	</listener>
+
+
+
 </web-app>
